@@ -1,2 +1,3 @@
 # sub-project
-Git動画講座等　サブプロジェクト
+Git動画講座用　サブプロジェクト
+GitHub上で更新
